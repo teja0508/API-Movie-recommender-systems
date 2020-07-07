@@ -2,7 +2,7 @@
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
-Check out the live demo: https://mrswsa.herokuapp.com/
+Check out the live demo: https://movie-recomender-systems-api.herokuapp.com/
 
 Link to youtube demo: https://www.youtube.com/watch?v=dhVePtyECFw
 
